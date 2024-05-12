@@ -30,7 +30,7 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the list of item.
-Developed by: SYED JAVEED H
+Developed by:SYED JAVEED H
 Registeration Number : 212221220055
 */
 ```
@@ -152,12 +152,37 @@ public class CustomAdapter extends BaseAdapter {
     }
 }
 ```
+```
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
 ## OUTPUT
+![image](https://github.com/yuvaraj-csk/listview/assets/134052574/1d2ba151-6026-423f-950c-14997605d295)
+```
 
-![image](https://github.com/SyedJaveed786/listview/assets/106874713/fbf6021c-0a9f-48ca-9501-b72d5cfd30d3)
 
-
-
+```
 ## RESULT
 Thus a Simple Android Application to create and develop the application to display the country name with image using list view in android studio is developed and executed successfully.
